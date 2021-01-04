@@ -36,6 +36,7 @@ public class NewTest {
 		public void beforeTest() {	
 			//driver = new ChromeDriver();
 			System.out.println("I am in beforeTest method");
+			System.out.println("I am in beforeTest 2222 method");
 			//driver.get("http://www.google.com");
 	        
 		}		
