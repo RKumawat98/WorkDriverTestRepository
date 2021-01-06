@@ -35,7 +35,7 @@ public class NewTest {
 		@BeforeTest
 		public void beforeTest() {	
 			//driver = new ChromeDriver();
-			System.out.println("I am in beforeTest method");
+			System.out.println("I am in beforeTest method again");
 			
 			//driver.get("http://www.google.com");
 	        
