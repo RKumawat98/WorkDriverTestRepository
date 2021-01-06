@@ -14,7 +14,7 @@ public class NewTest {
 		@Test				
 		public void testEasy() {	
 			//driver.get("http://demo.guru99.com/test/guru99home/");  
-			System.out.println("I am in testEasy method");
+			System.out.println("I am in testEasy method and trying to open chrome ");
 			System.setProperty("webdriver.chrome.driver","D:\\\\chromeDriver Folder\\\\chromedriver_win32\\\\chromedriver.exe");	// <-- Change this path
 		       WebDriver driver = new ChromeDriver();
 		       String baseUrl = "https://www.google.com/";
